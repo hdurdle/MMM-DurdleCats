@@ -1,0 +1,55 @@
+.MMM-DurdleCats .durdlecats-container {
+  min-width: 150px;
+  line-height: 1.50;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  border-bottom: solid 1px #222;
+  position: relative;
+  text-align: left
+}
+
+.MMM-DurdleCats .durdlecats-container .durdlecats-name {
+  color: #FFF;
+}
+
+.MMM-DurdleCats .durdlecats-container .durdlecats-date {
+  color: #787878;
+  float: right;
+  padding-right: 30px;
+  font-size: 10px;
+  padding-top: 11px;
+}
+
+.MMM-DurdleCats .durdlecats-container .durdlecats-icon-container {
+  white-space: nowrap;
+  position: absolute;
+  right: 0px;
+  top: 6px;
+  line-height: 24px;
+}
+
+.MMM-DurdleCats .durdlecats-container .durdlecats-icon-container .fas {
+  width: 24px;
+  height: 24px;
+  vertical-align: bottom;
+  display: inline;
+  position: relative;
+  margin-left: 4px;
+}
+
+.fa-couch {
+  color: #3e8d21
+}
+
+.fa-home {
+  color: #81cb65
+}
+
+.fa-warehouse {
+  color: #4c9988
+}
+
+.fa-cloud-sun {
+  color: #eea476
+}
